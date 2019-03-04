@@ -10,3 +10,4 @@ def getCustomLogger(level):
     fileHandler.setFormatter(formatter)
     logger.addHandler(fileHandler)
     return logger
+
