@@ -11,3 +11,4 @@ def Even_check(a=0):
             return 'Odd'
     except:
         return None
+    
